@@ -1,7 +1,8 @@
 {
     "name": "maybe-d",
-    "description": "A Maybe library",
+    "description": "Provides a Maybe-like data type and helpers.",
     "copyright": "Copyright © 2014, Damon Khasel",
+    "license": "MIT",
     "authors": ["dkhasel"],
     "targetType": "library",
     "dependencies": {}
