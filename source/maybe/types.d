@@ -3,8 +3,9 @@ module maybe.types;
 
 /++
  + The poor man's version of Haskell's Maybe type. Since
- + we don't have discriminated unions types, this will have
- + to do.
+ + we don't have discriminated unions types (or case classes, or algebraic data,
+ + types, or tagged unions, or however you might want to implement them), this
+ + will have to do!
  +
  + Example usage:
  + ---
