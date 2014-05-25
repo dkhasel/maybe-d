@@ -1,0 +1,8 @@
+{
+    "name": "maybe-d",
+    "description": "A Maybe library",
+    "copyright": "Copyright © 2014, Damon Khasel",
+    "authors": ["dkhasel"],
+    "targetType": "library",
+    "dependencies": {}
+}
