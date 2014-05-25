@@ -3,3 +3,4 @@ __test__library__
 .buildpath
 .dub/
 .project
+.*.md.html
