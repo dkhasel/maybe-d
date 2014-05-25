@@ -1,0 +1,5 @@
+__test__library__
+*.a
+.buildpath
+.dub/
+.project
